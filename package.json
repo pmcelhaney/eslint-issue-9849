@@ -1,0 +1,14 @@
+{
+  "name": "eslint-9849",
+  "version": "1.0.0",
+  "description": "test issue 9849",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint test-case.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^4.15.0"
+  }
+}
